@@ -1,6 +1,5 @@
-ChatGPT is wildly popular, with over a billion visits per month. Although this web interface is great for many non-technical use cases, for programming and automation tasks, it is better to access GPT (the AI that powers ChatGPT) via the OpenAI API.
 
-As well as GPT, you'll also make use of LangChain, a programming framework for working with generative AI.
+ChatGPT is wildly popular, with over a billion visits per month. Although this web interface is great for many non-technical use cases, for programming and automation tasks it is better to access GPT (the AI that powers ChatGPT) via the OpenAI API. You'll learn how to set up an OpenAI developer account and integrate it with Workspace, how to hold a conversation with GPT using Python and LangChain, and build a proof of concept for a system that performs automated data analysis.
 
 You'll cover:
 
